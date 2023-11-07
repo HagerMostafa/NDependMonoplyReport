@@ -1,0 +1,16 @@
+﻿15 files zipped on 2023 November - 05 Sunday 23:28:00 on machine DESKTOP-4M97Q4F.
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NetworkAdapter.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\RNG.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Crossover.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Genotype.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Mutation.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\NetworkFactory.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Phenotype.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Population.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Monopoly\Board.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Monopoly\NeuralPlayer.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Monopoly\Player.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Analytics.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Program.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\Tournament.cs
+D:\Projects\Testing\MonopolyNEAT-main (1)\MonopolyNEAT-main\Monopoly\NeuroEvolution\Program.cs
